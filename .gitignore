@@ -1,7 +1,10 @@
 *.npy
 *.pt
+*.pth
 *.en
 *.de
 *.json
 *.txt
 *.model
+*.joblib
+__pycache__/
