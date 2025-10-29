@@ -1,0 +1,15 @@
+name: annotated-transformer-laptop
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10.19
+  - pytorch=2.2.2
+  - spacy=3.8.7
+  - matplotlib=3.10.6
+  - jupyterlab=4.4.9
+  - numpy=1.26.4
+  - pip
+  - pip:
+      # Optional pip-only extras can go here
+      # - sentencepiece
