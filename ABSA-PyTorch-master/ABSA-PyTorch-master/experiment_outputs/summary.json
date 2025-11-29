@@ -1,0 +1,68 @@
+[
+  {
+    "model": "bert_spc",
+    "dataset": "twitter",
+    "timestamp": "251123-232950",
+    "test_acc": 0.726878612716763,
+    "test_f1": 0.7066266482420441,
+    "best_model_path": "experiment_outputs/checkpoints/bert_spc/twitter/bert_spc_twitter_val_acc_0.7269",
+    "log_path": "experiment_outputs/logs/bert_spc/twitter/bert_spc-twitter-251123-232950.log",
+    "metrics_path": "experiment_outputs/metrics/bert_spc/twitter-251123-232950.json",
+    "figure_path": "experiment_outputs/figures/bert_spc/twitter-251123-232950.png"
+  },
+  {
+    "model": "bert_spc",
+    "dataset": "restaurant",
+    "timestamp": "251123-233403",
+    "test_acc": 0.8375,
+    "test_f1": 0.7576916410634391,
+    "best_model_path": "experiment_outputs/checkpoints/bert_spc/restaurant/bert_spc_restaurant_val_acc_0.8375",
+    "log_path": "experiment_outputs/logs/bert_spc/restaurant/bert_spc-restaurant-251123-233403.log",
+    "metrics_path": "experiment_outputs/metrics/bert_spc/restaurant-251123-233403.json",
+    "figure_path": "experiment_outputs/figures/bert_spc/restaurant-251123-233403.png"
+  },
+  {
+    "model": "bert_spc",
+    "dataset": "laptop",
+    "timestamp": "251123-233739",
+    "test_acc": 0.7821316614420063,
+    "test_f1": 0.7469511051071335,
+    "best_model_path": "experiment_outputs/checkpoints/bert_spc/laptop/bert_spc_laptop_val_acc_0.7821",
+    "log_path": "experiment_outputs/logs/bert_spc/laptop/bert_spc-laptop-251123-233739.log",
+    "metrics_path": "experiment_outputs/metrics/bert_spc/laptop-251123-233739.json",
+    "figure_path": "experiment_outputs/figures/bert_spc/laptop-251123-233739.png"
+  },
+  {
+    "model": "lcf_bert",
+    "dataset": "twitter",
+    "timestamp": "251123-233938",
+    "test_acc": 0.7557803468208093,
+    "test_f1": 0.73980849706677,
+    "best_model_path": "experiment_outputs/checkpoints/lcf_bert/twitter/lcf_bert_twitter_val_acc_0.7558",
+    "log_path": "experiment_outputs/logs/lcf_bert/twitter/lcf_bert-twitter-251123-233938.log",
+    "metrics_path": "experiment_outputs/metrics/lcf_bert/twitter-251123-233938.json",
+    "figure_path": "experiment_outputs/figures/lcf_bert/twitter-251123-233938.png"
+  },
+  {
+    "model": "lcf_bert",
+    "dataset": "restaurant",
+    "timestamp": "251123-234430",
+    "test_acc": 0.8375,
+    "test_f1": 0.7624097015360269,
+    "best_model_path": "experiment_outputs/checkpoints/lcf_bert/restaurant/lcf_bert_restaurant_val_acc_0.8375",
+    "log_path": "experiment_outputs/logs/lcf_bert/restaurant/lcf_bert-restaurant-251123-234430.log",
+    "metrics_path": "experiment_outputs/metrics/lcf_bert/restaurant-251123-234430.json",
+    "figure_path": "experiment_outputs/figures/lcf_bert/restaurant-251123-234430.png"
+  },
+  {
+    "model": "lcf_bert",
+    "dataset": "laptop",
+    "timestamp": "251123-235035",
+    "test_acc": 0.8025078369905956,
+    "test_f1": 0.7631303690597203,
+    "best_model_path": "experiment_outputs/checkpoints/lcf_bert/laptop/lcf_bert_laptop_val_acc_0.8025",
+    "log_path": "experiment_outputs/logs/lcf_bert/laptop/lcf_bert-laptop-251123-235035.log",
+    "metrics_path": "experiment_outputs/metrics/lcf_bert/laptop-251123-235035.json",
+    "figure_path": "experiment_outputs/figures/lcf_bert/laptop-251123-235035.png"
+  }
+]

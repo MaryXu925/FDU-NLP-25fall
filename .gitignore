@@ -1,0 +1,15 @@
+# 忽略GPT2模型目录
+NLP-GPT-exercise/code-gpt2/code-gpt2/gpt2_local/
+
+# 忽略ABSA的checkpoint和state_dict
+ABSA-PyTorch-master/ABSA-PyTorch-master/experiment_outputs/
+ABSA-PyTorch-master/ABSA-PyTorch-master/state_dict/
+
+# 忽略常见大文件类型（兜底）
+*.safetensors
+*.bin
+*.pth
+*.ckpt
+*.pt
+*.tar.gz
+*.zip

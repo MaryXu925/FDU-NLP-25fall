@@ -1,0 +1,67 @@
+{
+  "model": "lcf_bert",
+  "dataset": "twitter",
+  "timestamp": "251123-213404",
+  "best_model_path": "experiment_outputs/checkpoints/lcf_bert/twitter/lcf_bert_twitter_val_acc_0.7558",
+  "test_acc": 0.7557803468208093,
+  "test_f1": 0.73980849706677,
+  "log_path": "experiment_outputs/logs/lcf_bert/twitter/lcf_bert-twitter-251123-213404.log",
+  "history": [
+    {
+      "epoch": 0,
+      "train_acc": 0.6461267605633803,
+      "train_loss": 0.789772792486772,
+      "val_acc": 0.7196531791907514,
+      "val_f1": 0.6993703283181589,
+      "lr": 2e-05
+    },
+    {
+      "epoch": 1,
+      "train_acc": 0.7491997439180538,
+      "train_loss": 0.5982189829080877,
+      "val_acc": 0.7557803468208093,
+      "val_f1": 0.73980849706677,
+      "lr": 2e-05
+    },
+    {
+      "epoch": 2,
+      "train_acc": 0.793854033290653,
+      "train_loss": 0.5050180908697973,
+      "val_acc": 0.7210982658959537,
+      "val_f1": 0.6923441036056056,
+      "lr": 2e-05
+    },
+    {
+      "epoch": 3,
+      "train_acc": 0.8119398207426376,
+      "train_loss": 0.46118187902449953,
+      "val_acc": 0.7239884393063584,
+      "val_f1": 0.7116442127733618,
+      "lr": 2e-05
+    },
+    {
+      "epoch": 4,
+      "train_acc": 0.8287451984635084,
+      "train_loss": 0.4237199169076817,
+      "val_acc": 0.7355491329479769,
+      "val_f1": 0.7185538905274501,
+      "lr": 2e-05
+    },
+    {
+      "epoch": 5,
+      "train_acc": 0.8402688860435339,
+      "train_loss": 0.3957247308499529,
+      "val_acc": 0.6820809248554913,
+      "val_f1": 0.6723244411817535,
+      "lr": 2e-05
+    },
+    {
+      "epoch": 6,
+      "train_acc": 0.8631562099871959,
+      "train_loss": 0.3475420062505329,
+      "val_acc": 0.7182080924855492,
+      "val_f1": 0.6986633895835807,
+      "lr": 2e-05
+    }
+  ]
+}
